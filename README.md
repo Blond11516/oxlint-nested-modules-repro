@@ -33,4 +33,5 @@ npm notice run oxlint
 Found 1 warning and 0 errors.
 Finished in 83ms on 2 files with 116 rules using 12 threads.
 ```
-[`typecsript(no-floating-promises)`](https://oxc.rs/docs/guide/usage/linter/rules/typescript/no-floating-promises.html) is a type-aware rule, which shows oxlint is properly configured.
+[`typecsript(no-floating-promises)`](https://oxc.rs/docs/guide/usage/linter/rules/typescript/no-floating-promises.html) is a type-aware rule, which shows oxlint is properly configured
+for type-aware linting with tsrs.
